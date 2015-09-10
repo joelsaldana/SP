@@ -2,18 +2,12 @@ package SSA;
 
 public class SeguroPopular {
 
-	public void pruebas(int a){
-		if (a==5) {
-			
-		}
-	}
 	
 	
 	public static void main(String[] args) {
-		System.out.println("GitHub Testing al 100%");
+	for (int i = 0; i < args.length; i++) {
 		
-	
-		System.out.println("ESTAMOS APRENDIENDO CON GIT");
+	}
 
 	}
 

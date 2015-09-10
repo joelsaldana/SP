@@ -11,6 +11,9 @@ public class SeguroPopular {
 	
 	public static void main(String[] args) {
 		System.out.println("GitHub Testing al 100%");
+		
+	
+		System.out.println("ESTAMOS APRENDIENDO CON GIT");
 
 	}
 
